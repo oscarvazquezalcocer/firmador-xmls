@@ -1,0 +1,14 @@
+# build
+build
+
+# dist
+dist 
+
+# Virtual
+venv
+
+# main Spec
+main.spec
+
+# carpeta Prueba
+Por_firmar
